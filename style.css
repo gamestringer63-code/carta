@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
 *, *::before, *::after {
   box-sizing: border-box;
+  overflow: hidden;
 }
 
 * {
@@ -40,7 +41,7 @@ section .box-body {
   padding: 10px;
   border-radius: 0px 50px;
   box-shadow: 2px 3px 5px rgba(42, 42, 43, 0.473);
-  background-color: rgba(238, 240, 162, 0.144);
+  background-color: rgba(162, 228, 240, 0.253);
   font-family: "Indie Flower", cursive;
   font-size: 1.5em;
   color: red;
