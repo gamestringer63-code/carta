@@ -45,10 +45,14 @@ section .box-body {
   font-family: "Indie Flower", cursive;
   font-size: 1.4em;
   color: red;
-  z-index: 2;
+  z-index: 5;
   text-align: center;
 }
 section .box-body h1 {
   padding-top: 1em;
   padding-bottom: 1.2em;
+  z-index: 5;
+}
+section .box-body p {
+  z-index: 6;
 }/*# sourceMappingURL=style.css.map */
