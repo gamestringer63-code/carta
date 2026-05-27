@@ -15,7 +15,7 @@ section {
   width: 100vw;
   height: 100%;
   background-color: rgb(255, 255, 255);
-  padding: 30px;
+  padding: 30px 20px;
 }
 section img {
   position: absolute;
@@ -43,19 +43,21 @@ section .box-body {
   box-shadow: 2px 3px 5px rgba(42, 42, 43, 0.473);
   background-color: rgba(252, 255, 228, 0.397);
   font-family: "Indie Flower", cursive;
-  font-size: 1.1em;
+  font-size: 1em;
   color: red;
   text-align: center;
 }
 section .box-body h1 {
   padding: 0.5em 0;
+  font-size: 1.2em;
 }
 section .box-text {
   position: absolute;
-  top: 0.8em;
-  left: 15px;
+  top: 2.5em;
+  left: 27px;
   margin: auto;
-  width: 90%;
+  padding: 0;
+  width: 80%;
   box-shadow: none;
   z-index: 8;
   background-color: rgba(0, 0, 255, 0);
