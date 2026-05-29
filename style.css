@@ -59,6 +59,7 @@ section .box-text {
   margin: auto;
   padding: 0;
   width: 80%;
+  text-align: center;
   box-shadow: none;
   z-index: 8;
   background-color: rgba(0, 0, 255, 0);
