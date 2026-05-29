@@ -42,7 +42,7 @@ section .box-body {
   box-shadow: 2px 3px 5px rgba(42, 42, 43, 0.473);
   background-color: rgba(252, 255, 228, 0.397);
   font-family: "Dancing Script", cursive;
-  font-size: 1.3em;
+  font-size: 1.2em;
   color: red;
 }
 section .box-body h1 {
@@ -51,7 +51,7 @@ section .box-body h1 {
 }
 section .box-text {
   position: absolute;
-  top: 2em;
+  top: 3em;
   padding: 0px;
   width: 89%;
   text-align: center;
